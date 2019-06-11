@@ -1,6 +1,6 @@
 spring:
   application:
-    name: hello-spring-cloud-web-admin-feign
+    name: hello-spring-cloud-fegin
   thymeleaf:
     cache: false
     mode: LEGACYHTML5
